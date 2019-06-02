@@ -1,0 +1,29 @@
+<scheme name="_@user_Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2019-05-31T01:10:18</property>
+    <property name="ide">WebStorm</property>
+    <property name="ideVersion">2019.1.3.0.0</property>
+    <property name="modified">2019-05-31T13:11:09</property>
+    <property name="originalScheme">Darcula</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="9cde65" />
+    <option name="FILESTATUS_COPIED" value="9cde65" />
+    <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="d8de90" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="ff6464" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="ff6464" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="ff6464" />
+    <option name="FILESTATUS_MERGED" value="bd82c0" />
+    <option name="FILESTATUS_MODIFIED" value="65b7ec" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="65b7ec" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="65b7ec" />
+    <option name="FILESTATUS_OBSOLETE" value="" />
+    <option name="FILESTATUS_SUPPRESSED" value="" />
+    <option name="FILESTATUS_SWITCHED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="ff6464" />
+    <option name="FILESTATUS_addedOutside" value="9cde65" />
+    <option name="FILESTATUS_changelistConflict" value="ff6464" />
+    <option name="FILESTATUS_modifiedOutside" value="65b7ec" />
+  </colors>
+</scheme>
