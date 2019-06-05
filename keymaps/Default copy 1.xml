@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl j" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="InsertLiveTemplate" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl k" />
+  </action>
+</keymap>
