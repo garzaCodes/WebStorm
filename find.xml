@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Current File" />
-    <option name="defaultScopeName" value="Current File" />
-    <option name="SEARCH_SCOPE" value="Current File" />
+    <option name="customScope" value="Project 'ngMatters'" />
+    <option name="defaultScopeName" value="Project 'ngMatters'" />
+    <option name="SEARCH_SCOPE" value="Project 'ngMatters'" />
   </component>
 </application>
