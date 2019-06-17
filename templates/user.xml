@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="_ngDir" value="(function () {&#10;  'use strict';&#10;&#10;  module&#10;    .directive('directive', directive);&#10;&#10;  function directive() {&#10;&#10;    var directive = {&#10;      templateUrl: '/_layouts/15/matters/components/matter_feed/matter_feed.component.html',&#10;      controllerAs: 'vm',&#10;      controller: ctrl,&#10;      restrict: 'AE',&#10;      scope: {}&#10;    };&#10;&#10;    return directive;&#10;  }&#10;&#10;  ctrl.$inject = [''];&#10;&#10;  function ctrl() {&#10;    var vm = this;&#10;&#10;   init();&#10;&#10;    function init() {&#10;&#10;    }&#10;&#10; &#10;&#10;  }&#10;&#10;}());" description="Creates a new Angular Directive from the style guide" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="_anon" value="(function () {&#10;  'use strict';&#10;&#10;&#10;}());" description="Creates an anonymous function." toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
