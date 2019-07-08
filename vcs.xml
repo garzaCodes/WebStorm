@@ -6,6 +6,10 @@
           <option name="url" value="http://whitecase.visualstudio.com" />
           <option name="userName" value="garzama" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://garzasays.visualstudio.com" />
+          <option name="userName" value="garzasays" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
