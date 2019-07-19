@@ -4,7 +4,7 @@
     <property name="created">2019-06-03T12:21:59</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-06-26T15:03:52</property>
+    <property name="modified">2019-07-12T11:37:15</property>
     <property name="originalScheme">Monokai Pro</property>
   </metaInfo>
   <console-font>
@@ -36,6 +36,8 @@
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="fc9867" />
     <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="a9dc76" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="a9dc76" />
     <option name="FILESTATUS_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
     <option name="FILESTATUS_MERGED" value="ab9df2" />
     <option name="FILESTATUS_MODIFIED" value="78dce8" />
@@ -425,7 +427,7 @@
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="c500e1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -548,7 +550,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="727072" />
+        <option name="FOREGROUND" value="c500e1" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
