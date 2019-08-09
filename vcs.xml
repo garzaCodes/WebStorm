@@ -10,7 +10,16 @@
           <option name="url" value="http://garzasays.visualstudio.com" />
           <option name="userName" value="garzasays" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://dev.azure.com" />
+          <option name="userName" value="garzasays" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://garzasays@dev.azure.com/revive-dg/Revived-Site/_git/Revived-Site" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="$USER_HOME$/Code/Revive" />
   </component>
 </application>
