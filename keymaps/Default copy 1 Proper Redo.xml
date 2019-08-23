@@ -14,6 +14,7 @@
   <action id="Back">
     <mouse-shortcut keystroke="button4" />
   </action>
+  <action id="ChangesView.GroupBy.Directory" />
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl k" />
   </action>
@@ -34,6 +35,7 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IntroduceConstant" />
+  <action id="IntroduceParameter" />
   <action id="MethodDown">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
@@ -53,10 +55,15 @@
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="ServiceView.GroupByServiceGroups" />
   <action id="ShowContent" />
   <action id="ShowSearchHistory" />
+  <action id="TodoViewGroupByShowPackages" />
   <action id="Tool_External Tools_Copy to 911">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
+  <action id="Tool_External Tools_Copy to PreProd">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="Vcs.Push" />
   <action id="XDebugger.MoveWatchDown" />
