@@ -1,0 +1,12 @@
+<keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta j" />
+  </action>
+  <action id="CheckinProject" />
+  <action id="InsertLiveTemplate" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="meta alt l" />
+    <keyboard-shortcut first-keystroke="meta k" />
+  </action>
+</keymap>
