@@ -1,4 +1,4 @@
-<keymap version="1" name="Default copy 2" parent="Mac OS X 10.5+">
+<keymap version="1" name="Garza - Mac Keymap" parent="Mac OS X 10.5+">
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="meta j" />
@@ -6,28 +6,41 @@
   <action id="Arrangement.Alias.Rule.Match.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
-  <action id="CheckinProject" />
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="alt space" />
+  </action>
+  <action id="ClassNameCompletion" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
   <action id="EditorDuplicateLines">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
   <action id="GotoNextElementUnderCaretUsage" />
+  <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
   <action id="MethodOverloadSwitchDown" />
   <action id="MethodOverloadSwitchUp" />
   <action id="MoveLineDown">
-    <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="MoveLineUp">
-    <keyboard-shortcut first-keystroke="shift alt up" />
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
+  <action id="MoveStatementDown" />
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="meta alt l" />
     <keyboard-shortcut first-keystroke="meta k" />
   </action>
+  <action id="ResizeToolWindowDown" />
   <action id="ShowSearchHistory" />
   <action id="SmartSelect" />
+  <action id="Vcs.Push">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="ctrl alt space" />
+  </action>
 </keymap>
