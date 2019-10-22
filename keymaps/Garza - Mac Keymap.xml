@@ -18,6 +18,10 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
