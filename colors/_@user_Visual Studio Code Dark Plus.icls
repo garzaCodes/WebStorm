@@ -1,16 +1,11 @@
 <scheme name="_@user_Visual Studio Code Dark Plus" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-08-18T22:11:24</property>
+    <property name="created">2019-10-23T09:26:45</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.1.3.0.0</property>
-    <property name="modified">2019-10-22T10:23:05</property>
+    <property name="ideVersion">2019.2.3.0.0</property>
+    <property name="modified">2019-10-23T09:27:55</property>
     <property name="originalScheme">Visual Studio Code Dark Plus</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="Hasklig" />
-  <option name="EDITOR_LIGATURES" value="true" />
   <colors>
     <option name="CARET_COLOR" value="adaeac" />
     <option name="CARET_ROW_COLOR" value="262626" />
@@ -64,6 +59,7 @@
         <option name="FOREGROUND" value="c586c0" />
       </value>
     </option>
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.VAR_DEF">
       <value>
         <option name="FOREGROUND" value="d3d3c8" />
@@ -279,9 +275,6 @@
         <option name="FOREGROUND" value="ce9178" />
       </value>
     </option>
-    <option name="HTML_CODE">
-      <value />
-    </option>
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -329,13 +322,10 @@
     <option name="KOTLIN_DYNAMIC_PROPERTY_CALL">
       <value />
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="499cd5" />
+      </value>
     </option>
     <option name="KOTLIN_LOCAL_VARIABLE">
       <value />
@@ -455,8 +445,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="878787" />
       </value>
     </option>
     <option name="PHP_ALIAS_REFERENCE">

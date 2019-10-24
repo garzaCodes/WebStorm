@@ -18,6 +18,10 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnSelectWord" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="shift meta a" />
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoNextElementUnderCaretUsage" />
   <action id="IncrementWindowHeight" />
   <action id="InsertLiveTemplate" />
@@ -32,6 +36,9 @@
   <action id="MoveStatementDown" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="meta y" />
+  </action>
+  <action id="QuickList.Quick Git">
+    <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="meta k" />
