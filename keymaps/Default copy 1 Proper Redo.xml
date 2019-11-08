@@ -50,6 +50,7 @@
     <keyboard-shortcut first-keystroke="alt up" />
   </action>
   <action id="NextOccurence" />
+  <action id="OptimizeImports" />
   <action id="PreviousOccurence" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
@@ -63,6 +64,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
   <action id="Tool_External Tools_Copy to PreProd">
+    <keyboard-shortcut first-keystroke="ctrl alt o" />
+  </action>
+  <action id="Tool_External Tools_Copy to Production">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="Vcs.Push" />
