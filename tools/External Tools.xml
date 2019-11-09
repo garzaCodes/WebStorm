@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="C:/Users/garzama/Documents/codeStore" />
     </exec>
   </tool>
+  <tool name="Copy to Production" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Users\garzama\Documents\codeStore\CopytoProd.bat" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/garzama/Documents/codeStore" />
+    </exec>
+  </tool>
 </toolSet>
