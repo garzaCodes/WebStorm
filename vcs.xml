@@ -18,6 +18,10 @@
           <option name="url" value="https://garzasays@dev.azure.com/revive-dg/Revived-Site/_git/Revived-Site" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="garzasays" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Code/Revive" />
