@@ -63,11 +63,11 @@
   <action id="Tool_External Tools_Copy to 911">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
+  <action id="Tool_External Tools_Copy to Dev">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
   <action id="Tool_External Tools_Copy to PreProd">
     <keyboard-shortcut first-keystroke="ctrl alt o" />
-  </action>
-  <action id="Tool_External Tools_Copy to Production">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
   </action>
   <action id="Vcs.Push" />
   <action id="XDebugger.MoveWatchDown" />
