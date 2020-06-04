@@ -24,7 +24,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\garzama\Documents\codeStore\CopytoConnectDev.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/codeStore" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/garzama/Documents/codeStore" />
     </exec>
   </tool>
 </toolSet>
