@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\garzama-adm\Documents\codeStore\Copy Matters to Prod.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/codeStore" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/garzama-adm/Documents/codeStore" />
     </exec>
   </tool>
   <tool name="Copy Matters to 911" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
@@ -38,7 +38,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\garzama-adm\Documents\codeStore\Copy Connect to Prod.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/codeStore" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/garzama-adm/Documents/codeStore" />
     </exec>
   </tool>
 </toolSet>
