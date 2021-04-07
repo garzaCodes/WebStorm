@@ -45,7 +45,7 @@
     <exec>
       <option name="COMMAND" value="C:\Users\garzama-adm\Documents\codeStore\Copy Connect to Pre-Prod.bat" />
       <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/codeStore" />
+      <option name="WORKING_DIRECTORY" value="C:/Users/garzama-adm/Documents/codeStore" />
     </exec>
   </tool>
 </toolSet>
