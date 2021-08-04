@@ -38,6 +38,10 @@
           <option name="url" value="https://whitecase.visualstudio.com/ConnectDev/_git/ngMatters" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/garzasays/NewMaster.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\garzama-adm\Source\Repos" />
